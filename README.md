@@ -1,7 +1,7 @@
 
 ![Let's Chat Greylock](http://i.imgur.com/0a3l5VF.png)
 Demo!
-Use this tutorial to familiarize yourself with codefresh.yml file and codefresh functionality.
+Use this tutorial to familiarize yourself with codefresh.yml file and codefresh functionality.Yoni.
 
 ![Screenshot](http://i.imgur.com/C4uMD67.png)
 
